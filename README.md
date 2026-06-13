@@ -53,7 +53,7 @@ I'm a Python developer at Cloudpi who likes building things from first principle
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lokesh-Tallapaneni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lokesh-Tallapaneni&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-Tallapaneni&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages"/>
 </p>
 
