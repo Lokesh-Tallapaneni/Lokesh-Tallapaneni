@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkata-lokesh-tallapaneni-28314b239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Lokesh-Tallapaneni&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -21,7 +20,6 @@ I'm a Python developer at Cloudpi who likes building things from first principle
 
 - 🔭 Currently building **Veloce** — an ASGI-native async Python web framework
 - 🦀 Exploring compilers & transpilers with **py2rs** (Python → Rust)
-- 📈 Researching systematic trading with **india-swing-quant**
 - ☁️ AWS Certified Cloud Practitioner
 - 🎓 B.Tech in Artificial Intelligence
 
